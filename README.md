@@ -21,7 +21,11 @@
 
 # 📖 My CLINIC<a name="about-project"></a>
 
+![Alt Text](myclinic_diagram.png)
+
+
 My CLINIC is a database using PostgreSQL to show how to create a database from a well sturctured relational diagram provided to handle the task.
+
 ## 🛠 Built With <a name="built-with"></a>
 - SQL
 
